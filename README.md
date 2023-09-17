@@ -89,12 +89,6 @@
   The QR Scanner page allows users to scan QR codes using their device's camera or by uploading an image. The Scanner and Analysis page     provides statistical data and analysis on the usage of generated QR codes. 
 
   ![Scanner](image-2.png)
-  
-  ## User Profile Section
-
-  The User Profile section allows users to view their profile information, update their profile picture, and change their password.
-
-  ![profile-page](image-5.png)
 
   ## About Us Page
 
