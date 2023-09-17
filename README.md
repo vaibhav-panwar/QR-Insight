@@ -13,7 +13,7 @@
   - Git
   
 # Installation
-  - Clone the repository: git clone : https://github.com/Lokendra-debug/QR-Insight-full.git
+  - Clone the repository: git clone : https://github.com/vaibhav-panwar/QR-Insight.git
   - Install dependencies: npm install
   - Start the server: npm run server
   
